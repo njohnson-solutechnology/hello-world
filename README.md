@@ -3,4 +3,6 @@
 
 Hello GitHub
 
-This is my first readme edit
+This is my first readme edit.
+
+I made another edit and will commit with VS!!
